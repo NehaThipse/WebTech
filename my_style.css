@@ -1,0 +1,36 @@
+body
+{
+background-color: lightblue;
+}
+
+p
+{
+color : red;
+background-color: #FFFF11;
+border: 3px 
+
+}
+
+div
+{
+color : white;
+background-color: #FF3333;
+border: 10px 
+}
+
+h1
+{
+background-color: #FF3333;
+}
+
+table , th , td{
+border: 1px solid black;
+background-color: #F110EE;
+}
+
+p.dotted {border-style: dotted;}
+
+input {
+  border: 2px solid red;
+  border-radius: 4px;
+}
